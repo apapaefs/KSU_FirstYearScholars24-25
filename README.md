@@ -2,6 +2,8 @@
 
 2024-25 @ Kennesaw State University
 
+## Getting started
+
 This repository will be updated throughout the project. 
 
 To clone the repository: 
@@ -18,9 +20,9 @@ To ``pull'' new changes locally you can do:
 git pull
 ```
 
-## Getting started
+## Binder option
 
-To use this repository through binder:
+You can also temporarily use this repository through binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/apapaefs/KSU_FirstYearScholars24-25/HEAD)
 
