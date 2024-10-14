@@ -2,6 +2,22 @@
 
 2024-25 @ Kennesaw State University
 
+This repository will be updated throughout the project. 
+
+To clone the repository: 
+
+```
+git clone https://github.com/apapaefs/KSU_FirstYearScholars24-25.git
+```
+
+You will have all the information directly in the KSU_FirstYearScholars24-25 directory. 
+
+To ``pull'' new changes locally you can do:
+
+```
+git pull
+```
+
 ## Getting started
 
 To use this repository through binder:
